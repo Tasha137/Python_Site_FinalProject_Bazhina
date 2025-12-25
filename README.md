@@ -1,1 +1,4 @@
-# Python_Site_FinalProject_Bazhina
+Дипломный проект: Веб-сайт для аренды одежды
+Имя Фамилия — Бажина Наталья Викторовна
+логин на GitHub — tasha137@mail.ru
+e-mail — tasha137@mail.ru
